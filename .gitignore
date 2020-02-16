@@ -1,4 +1,7 @@
 .venv/
+.vscode/
 **pycache/**
+**egg-info/**
+**temp**
 
 *pyc
